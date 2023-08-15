@@ -1,5 +1,10 @@
-# Descomplicando_Kubernetes
-Repositório base de configuração e criação mais simples de um cluster Kind.
+# Se virando no Kubernetes
+Esse repositório foi criado com o intuito de servir como bloco de anotações e, quem sabe, material de apoio a quem o encontrar. 
+As informações desse repositório tem como o curso Kubernetes Essentials da [Linuxtips](https://linuxtips.io/) e o projeto [Descomplicando Kubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) criado pelo [Jeferson Fernando](https://twitter.com/badtux_). Mais detalhes podem ser encontrados nos linkds informados. 
+
+<br><br>
+
+## Primeiros passos
 
 ### Instalação Kubectl
 ```
