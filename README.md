@@ -1,6 +1,6 @@
 # Se virando no Kubernetes
 Esse repositório foi criado com o intuito de servir como bloco de anotações e, quem sabe, material de apoio a quem o encontrar. 
-As informações desse repositório tem como origem o curso Kubernetes Essentials da [Linuxtips](https://linuxtips.io/) e o projeto [Descomplicando Kubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) criado pelo [Jeferson Fernando](ttps://twitter.com/badtux_). Mais detalhes podem ser encontrados nos linkds informados. 
+As informações desse repositório tem como origem o curso Kubernetes Essentials da [Linuxtips](https://linuxtips.io/) e o projeto [Descomplicando Kubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) criado pelo [Jeferson Fernando](https://twitter.com/badtux_). Mais detalhes podem ser encontrados nos linkds informados. 
 
 <br><br>
 ### Conceitos básicos
