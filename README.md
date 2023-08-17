@@ -99,3 +99,15 @@ curl -fsSL https://get.docker.com | bash
 sudo chmod +x kind
 sudo mv kind /usr/local/bin
 ```
+
+## Comandos
+Executar pod
+```
+kubectl run
+
+### Cria pod
+kubectl create
+
+### Aplica as novas configurações. Se o pod não existir, cria
+kubectl apply
+```
